@@ -2,6 +2,7 @@
 <title>André Santos's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Author (Level 3)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Apprentice Architect (Level 1)</title><description>Created a new repository with git init.</description></item>
 <item><title>Apprentice Stone Mason (Level 3)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
 <item><title>Apprentice Cleaning lady (Level 1)</title><description>Remove untracked files from the working tree with git clean</description></item>
